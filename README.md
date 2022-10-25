@@ -1,2 +1,3 @@
-# DIO-repositorio-desafio-1
-Repositório referente ao primeiro desafio de código da plataforma DIO
+# Desafio de projeto sobre Github da DIO
+## Primeiro repositório do github pelo curso **Potência Tech powered by iFood - Java Beginners**
+
